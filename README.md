@@ -1,4 +1,9 @@
-﻿Bu çalışmada, çift sarkaç sisteminin PID denetleyicisi ile kontrol edilmesi için bir animasyon sağlar.
+![](https://github.com/saygix/CONTROL-OF-THE-BALANCE-CONTROL-OF-THE-TWO-PENSTURAL-ADDED-TO-THE-END-RESOLVING-METHODS-PROJECT/assets/139467552/f43c703e-71f5-412d-97fb-a377bd674e45)
+
+ 
+ 
+ 
+Bu çalışmada, çift sarkaç sisteminin PID denetleyicisi ile kontrol edilmesi için bir animasyon sağlar.
 
 Sistem, iki sarkaçtan oluşur ve her biri bir çubuk ve bir kütle ile birbirine bağlanır. İlk sarkaç
 
