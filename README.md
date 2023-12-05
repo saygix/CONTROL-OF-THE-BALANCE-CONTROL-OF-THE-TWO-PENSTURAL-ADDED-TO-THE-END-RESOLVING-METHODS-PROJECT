@@ -42,6 +42,15 @@ dt = 0.1  # Örnekleme zamanı
 
 Bu parametreleri ihtiyaca göre değiştirebilir ve simülasyonun davranışını gözlemleyebilirsiniz.
 
+## Öne Çıkan Özellikler
+
+1. Animasyon: Simülasyon sırasında sarkaçların hareketi animasyon olarak gösterilir ve 'animation.gif' adlı bir dosyaya kaydedilir.
+2. Parametre Ayarları: Proje içindeki parametreleri değiştirerek sarkaçların davranışını özelleştirebilirsiniz.
+
+## Kapsamlı Kullanım Senaryoları
+
+Proje sadece temel kullanımı değil, aynı zamanda farklı PID parametreleri ve başlangıç koşullarıyla oynayarak sarkaçların nasıl tepki verdiğini anlamak için kapsamlı bir şekilde kullanılabilir. Bu sayede, PID denetleyicisinin çeşitli senaryolarda nasıl performans gösterdiğini gözlemleyebilirsiniz.
+
 ## Animasyon
 
 Simülasyon sırasında sarkaçların hareketi animasyon olarak gösterilir ve animation.gif adlı bir dosyaya kaydedilir.
